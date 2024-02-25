@@ -9,11 +9,13 @@ If you can rent it, why buy it?
 
 Todo list:
 
-- [ ] Search for similar designs
-- [ ] Front-end: node-js, ts, react
-- [ ] Back-end: java spring
-- [ ] Database: mySQL
-- [ ] UI/UX
+- [ x ] Search for similar designs
+- [ x ] Front-end: node-js, ts, react
+- [ x ] Back-end: java spring
+- [ x ] Database: mySQL
+- [ x ] UI/UX
 
 - [ ] 支付问题 微信? Swish?
 
+# UI draft
+![draft/main.png](./Doc/draft/main.png)
