@@ -19,3 +19,13 @@ Todo list:
 
 # UI draft
 ![draft/main.png](./Doc/draft/main.png)
+
+# Setup environment
++ step 1: install Java, git and Node.js
+```bash 
+sudo apt-get install nodejs npm
+```
++ step 2: install [JHipster](https://www.jhipster.tech/), more [info](https://www.infoq.com/minibooks/jhipster-mini-book-7/)
+```bash 
+npm install -g generator-jhipster
+```
